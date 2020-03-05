@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ornek_1" GeneratedClassName="Ayarlar">
+  <Profiles />
+  <Settings>
+    <Setting Name="Baslık" Type="System.String" Scope="User">
+      <Value Profile="(Default)">İstanbul Arel Üniversitesi</Value>
+    </Setting>
+    <Setting Name="Renk" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">192, 192, 0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

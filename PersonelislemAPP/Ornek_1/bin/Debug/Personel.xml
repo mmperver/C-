@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Personeller>
+  <Personel>
+    <Adı>Kemalettin</Adı>
+    <Soyadı>Kamiloğlu</Soyadı>
+    <Maası>2500</Maası>
+  </Personel>
+  <Personel>
+    <Adı>Muhittin</Adı>
+    <Soyadı>Beyaz</Soyadı>
+    <Maası>1300</Maası>
+  </Personel>
+</Personeller>
